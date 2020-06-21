@@ -24,3 +24,4 @@ create_life("gifs/example-raw.gif",
 life.resize_gif("gifs/example-raw.gif", "gifs/example.gif", size=350, duration=100)
 ```
 
+![](https://github.com/ether-automaton/automaton-create/blob/master/gifs/example.gif)
